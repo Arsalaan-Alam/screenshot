@@ -1,2 +1,2 @@
-# screenshot
+# ScreenShot
 Screenshot your friends!!
